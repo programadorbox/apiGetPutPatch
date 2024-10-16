@@ -1,0 +1,22 @@
+{
+  "1": {
+    "estado": "abierto",
+    "comentario": "ccc"
+  },
+  "2": {
+    "estado": "abierto",
+    "comentario": "no solucianado"
+  },
+  "3": {
+    "estado": "abierto",
+    "comentario": "esperando al tecnico"
+  },
+  "4": {
+    "estado": "abierto",
+    "comentario": "no ha pagado"
+  },
+  "5": {
+    "estado": "abierto",
+    "comentario": "no contesta"
+  }
+}
